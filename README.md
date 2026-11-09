@@ -10,6 +10,7 @@ Live portfolio: https://asmozankov.github.io/playable-ads-portfolio/
 
 - Five years at Studio Cation.
 - PixiJS and Three.js; 2D and 3D gameplay.
+- Active contribution to project asset preparation and processing; experience with Photoshop, Blender and Spine 2D.
 - Independent decisions about playable scenarios, game logic and visuals.
 - Creative work for AZUR, GLERA, VISOR, ROYAL ARK, MELSOFT and more.
 
