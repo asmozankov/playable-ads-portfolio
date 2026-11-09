@@ -36,6 +36,6 @@ GitHub Pages publishes the `main` branch from the repository root. The `.nojekyl
 
 ## Visual system
 
-Onest for reading and UI, Unbounded for display headings, with locally served Latin/Cyrillic fonts. Five monochrome company marks use a staggered entrance, hover feedback and an animated playhead, with a pause toggle, reduced-motion support and offscreen suspension. The Russian and English profile text has been editorially rewritten.
+Onest for reading and UI, Unbounded for display headings, with locally served Latin/Cyrillic fonts. Five monochrome company marks move continuously in a seamless single row, without external company links. A pause toggle, reduced-motion support and offscreen suspension are included. The introduction, biography, workflow and all eight case summaries have been expanded and rewritten in Russian and English; both PDFs use the updated text. Content-versioned script and stylesheet URLs keep updates visible.
 
 Font licenses and logo sources are documented in `ASSETS.md`.
