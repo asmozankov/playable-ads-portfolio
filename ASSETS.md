@@ -10,3 +10,19 @@ Create a standalone transparent-background 3D hero illustration for the chosen T
 ## Gameplay images
 
 The eight portrait screenshots are captured from the supplied playable builds at 360 x 640. They show the original games, not illustrative replacements. The illustration is used in the About section; project covers use actual gameplay screenshots. The covers contain no preloader footer logos. In the playable copies for the portfolio, the two footer-logo images have been removed from the preloader logo arrays in Battle Lines, World War Heroes, State Connect and Claw Master; game icons and gameplay assets are retained.
+
+## Typography
+
+Onest (reading text and UI) and Unbounded (display headings) are served locally as Latin/Cyrillic WOFF2 subsets. Their SIL Open Font License files are in `assets/fonts/`. Source: Google Fonts CSS API and the official Google Fonts repositories at https://github.com/google/fonts/tree/main/ofl/onest and https://github.com/google/fonts/tree/main/ofl/unbounded. PDFs use the corresponding Onest regular/bold and Unbounded bold TTF instances.
+
+## Company marks
+
+The user confirmed the company spelling as VIZOR. The website presents the supplied marks in monochrome through CSS, with no color change on hover. Company names indicate the user's stated creative-work experience.
+
+- AZUR GAMES: https://azurgames.com/wp-content/uploads/2025/03/footer-logo-1.svg (official website footer).
+- GLERA GAMES: the inline `logo-header-black` SVG from https://glera-games.com/ (official website header).
+- VIZOR: https://vizor-games.com/assets/icons/vizor-logo-white.svg (official website).
+- ROYAL ARK: https://royalarkgames.com/img/logo.png (official website). The presentation frame shows the Royal Ark portion of the composite header asset, excluding its separate partner badge.
+- MELSOFT: https://cdn.theorg.com/61e77407-ff9d-47f0-946a-67cc496b991e_medium.jpg from https://theorg.com/org/melsoft-games. The presentation frame uses the wordmark portion. The company's original website currently redirects to Moon Active.
+
+The credit reel uses a short staggered entrance, hover feedback and a moving line. Motion can be paused with the adjacent button, follows `prefers-reduced-motion` and pauses while the section is outside the viewport.

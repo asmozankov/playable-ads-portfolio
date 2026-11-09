@@ -33,3 +33,9 @@ GitHub Pages publishes the `main` branch from the repository root. The `.nojekyl
 [LinkedIn](https://www.linkedin.com/in/aliaxandr-smazhankou-711505274/)
 
 [asmozankov@gmail.com](mailto:asmozankov@gmail.com)
+
+## Visual system
+
+Onest for reading and UI, Unbounded for display headings, with locally served Latin/Cyrillic fonts. Five monochrome company marks use a staggered entrance, hover feedback and an animated playhead, with a pause toggle, reduced-motion support and offscreen suspension. The Russian and English profile text has been editorially rewritten.
+
+Font licenses and logo sources are documented in `ASSETS.md`.
