@@ -4,7 +4,7 @@ A bilingual portfolio with eight playable ads, project breakdowns and downloadab
 
 ## Website
 
-Intended GitHub Pages address: https://asmozankov.github.io/playable-ads-portfolio/
+Live portfolio: https://asmozankov.github.io/playable-ads-portfolio/
 
 ## Experience
 
@@ -30,3 +30,5 @@ GitHub Pages publishes the `main` branch from the repository root. The `.nojekyl
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/aliaxandr-smazhankou-711505274/)
+
+[asmozankov@gmail.com](mailto:asmozankov@gmail.com)
