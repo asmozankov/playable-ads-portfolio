@@ -3,14 +3,14 @@
 body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 body::before{opacity:.026}
 button,select{font-family:var(--font-text)}
-h1,h2{font-family:var(--font-display);font-weight:700;letter-spacing:-.05em}
+h1,h2{font-family:var(--font-display);font-weight:700;letter-spacing:-.035em}
 .accent{color:#d94a1e}
 .header-inner{height:82px;gap:24px}
 .wordmark{font-size:17px;font-weight:750;letter-spacing:-.5px}
 .desktop-nav{font-size:14px;gap:26px;color:#514c43}
 .language-switch button{height:34px;width:37px;font-size:12px}
 .hero{padding-top:46px;gap:60px}
-.hero h1{font-size:clamp(48px,5.1vw,78px);line-height:1.12;letter-spacing:-.055em;font-weight:700}
+.hero h1{font-size:clamp(48px,5.1vw,78px);line-height:1.12;letter-spacing:-.04em;font-weight:700}
 .hero-eyebrow{font-size:11px;letter-spacing:1.4px;color:var(--accent-ink);margin-bottom:24px}
 .hero-name{font-size:20px;letter-spacing:-.4px;margin-top:27px;font-weight:650}
 .hero-description{font-size:16px;line-height:1.75;letter-spacing:-.01em;max-width:60ch;color:#575248;margin-top:14px}
@@ -57,7 +57,7 @@ h1,h2{font-family:var(--font-display);font-weight:700;letter-spacing:-.05em}
 .about-copy .experience-card>p{font-size:14px;line-height:1.75;color:#62543f}
 .about-focus>span{font-size:10px;color:#75644a}
 .about-focus p{font-size:13px}
-.contact-row h2{font-family:var(--font-display);font-size:clamp(37px,4vw,56px);letter-spacing:-.055em;line-height:1.2}
+.contact-row h2{font-family:var(--font-display);font-size:clamp(37px,4vw,56px);letter-spacing:-.04em;line-height:1.2}
 .contact-copy>p{font-size:16px;line-height:1.8;color:#d1c8b7}
 .contact-link{font-size:16px;line-height:1.5;padding:19px 0;max-width:100%}
 .contact-copy .text-link{font-size:13px;color:#d1c8b7}
@@ -107,7 +107,7 @@ h1,h2{font-family:var(--font-display);font-weight:700;letter-spacing:-.05em}
 @media(max-width:800px){.desktop-nav{display:none}.brand-list{grid-template-columns:repeat(6,minmax(0,1fr));gap:0 14px}.brand-list li{grid-column:span 2}.brand-list li:nth-child(4){grid-column:2/span 2}.brand-list li:nth-child(5){grid-column:4/span 2}.brand-track{margin-top:10px}}
 @media(max-width:650px){
  .header-inner{height:72px;gap:12px}.wordmark{font-size:15px;max-width:calc(100% - 94px)}.wordmark>[data-i18n=brand]{max-width:180px}.language-switch button{width:35px;height:34px;font-size:11px}
- .hero{padding-top:20px;gap:35px}.hero h1{font-size:clamp(32px,10.2vw,54px);line-height:1.16;letter-spacing:-.055em}.hero-eyebrow{font-size:10px;letter-spacing:1.1px;margin-bottom:23px}.hero-name{font-size:18px;margin-top:24px}.hero-description{font-size:16px;line-height:1.75;margin-top:13px}
+ .hero{padding-top:20px;gap:35px}.hero h1{font-size:clamp(32px,10.2vw,54px);line-height:1.16;letter-spacing:-.04em}.hero-eyebrow{font-size:10px;letter-spacing:1.1px;margin-bottom:23px}.hero-name{font-size:18px;margin-top:24px}.hero-description{font-size:16px;line-height:1.75;margin-top:13px}
  .hero-facts{gap:12px;padding-block:18px}.hero-facts strong{font-size:22px}.hero-facts .stack-fact{font-size:19px}.hero-facts span{font-size:10px;line-height:1.5;letter-spacing:0}
  .button{font-size:12px;min-height:49px;padding:12px 14px;gap:8px}.hero-email{font-size:13px}.hero-footnote{font-size:11px;margin-top:18px}
  .console-controls{grid-template-columns:minmax(0,1fr) minmax(0,1fr) 1px repeat(4,35px);gap:5px}.console-control,.console-tool{height:44px}.console-control [data-i18n]{display:none}.console-control{font-size:10px}.console-status{font-size:9px}.console-volume{font-size:8px}.console-top{font-size:8px}.console-top>span:last-child{font-size:7px}

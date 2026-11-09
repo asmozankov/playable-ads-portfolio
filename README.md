@@ -12,7 +12,7 @@ Live portfolio: https://asmozankov.github.io/playable-ads-portfolio/
 - PixiJS and Three.js; 2D and 3D gameplay.
 - Active contribution to project asset preparation and processing; experience with Photoshop, Blender and Spine 2D.
 - Independent decisions about playable scenarios, game logic and visuals.
-- Creative work for AZUR, GLERA, VISOR, ROYAL ARK, MELSOFT and more.
+- Creative work for AZUR, GLERA, VIZOR, ROYAL ARK, MELSOFT and more.
 
 ## Run locally
 
